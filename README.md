@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on a [Angular Course] 
+- 🔭 I’m currently working on  [Angular Course] 
 - 🌱 I’m currently trying to develop myself for being an advanced [frontend developer]
 - 👯 I’m looking to collaborate on anyone who has [knowledge]
 ## Nonstop developing! 
