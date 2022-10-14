@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on  [Etiya Academy Angular] 
+- 🔭 I’m currently working on  [Re:Coded React Bootcamp] 
 - 🌱 I’m trying to develop myself for being an advanced [frontend developer]
 - 👯 I’m looking to collaborate on anyone who has [knowledge]
 ## Nonstop developing! 
